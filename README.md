@@ -5,7 +5,7 @@ This is a repo where a bunch of awesome students learned Git / GitHub and made t
 Feel free to add your name and GitHub handle below
 ___
 
-(to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
+(to create a link - "[RJ Vicente] (https://www.link-to-github.com)" (remove space))
 
 
 [Chris Bridges](https://github.com/chrisbridges)<br/>
@@ -35,6 +35,7 @@ ___
 [Huy Do](https://github.com/HuydDo)<br/>
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
-[RJ Vicente] (https://github.com/rvicente2)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+
+[RJ Vicente] (https://github.com/rvicente2)<br/>
